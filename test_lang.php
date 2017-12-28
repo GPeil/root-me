@@ -1,2 +1,2 @@
 <?php
-system('id');?>
+echo "hello world";?>
