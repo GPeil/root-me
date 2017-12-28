@@ -1,2 +1,2 @@
 <?php
-echo "ok";?>
+system('id');?>
